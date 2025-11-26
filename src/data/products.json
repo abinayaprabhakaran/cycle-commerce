@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Hercules Street Rider",
+    "price": 8500,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVemgilWBvpNhPCplivKAtuPZ7Ka0j_A1KcA&s"
+  },
+  {
+    "id": 2,
+    "name": "Hero Sprint Pro",
+    "price": 10500,
+    "image": "https://www.herocycles.com/dw/image/v2/BGQH_PRD/on/demandware.static/-/Sites-cycles-master/default/dwc3e5fd0d/Products/NewAttitude/BlueGreen/4.png?sh=523&sfrm=png"
+  },
+  {
+    "id": 3,
+    "name": "Firefox Bad Attitude",
+    "price": 9800,
+    "image": "https://rukminim1.flixcart.com/image/832/832/krs40i80/cycle/v/u/6/bad-attitude-26-13-5-firefox-21-gear-original-imag5hphv7k6rpf3.jpeg?q=70"
+  },
+  {
+    "id": 4,
+    "name": "Btwin Rockrider 340",
+    "price": 15000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm2MrdSF338zkx9YXkyoUAoNTPrqPYsypYDw&s"
+  },
+  {
+    "id": 5,
+    "name": "Avon Cyclux",
+    "price": 7200,
+    "image": "https://www.bikes4sale.in/pictures/default/avon-cyclux-chrome/avon-cyclux-chrome-pic-3.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ninety One Wolverine",
+    "price": 22500,
+    "image": "https://ik.imagekit.io/voltebyk/Turbo-pro/Picsart_23-03-09_19-25-13-931__hd_.jpg?updatedAt=1687097332000"
+  },
+  {
+    "id": 7,
+    "name": "Montra Helicon Disc",
+    "price": 19000,
+    "image": "https://rukminim3.flixcart.com/image/850/1000/xif0q/electric-cycle/c/4/d/h5-orange-18-hero-lectro-single-speed-original-imahyff3hdzgns86.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 8,
+    "name": "Trek Marlin 4",
+    "price": 41000,
+    "image": "https://solarbike.com.au/wp-content/uploads/2023/08/Trek-Marlin-4-with-Bafang-1000W-mid-drive-kit.jpg"
+  }
+]
